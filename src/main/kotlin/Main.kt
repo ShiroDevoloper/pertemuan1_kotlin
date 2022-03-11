@@ -2,7 +2,7 @@
 fun main() {
     //untuk mencetak string ke layar
     println("alo ges welcom bek ")
-    //
+
 }
 
 
